@@ -1,0 +1,38 @@
+ [
+    {
+      "name": "今日收件",
+      "value": 251,
+      "icon": "el-icon-s-order",
+      "color": "#1A2C3F"
+    },
+    {
+      "name": "今日派件",
+      "value": 112,
+      "icon": "el-icon-s-promotion",
+      "color": "#1A7DBA"
+    },
+    {
+      "name": "新增用户",
+      "value": 89,
+      "icon": "el-icon-s-custom",
+      "color": "#5ab1ef"
+    },
+    {
+      "name": "系统访问量",
+      "value": 487,
+      "icon": "el-icon-s-comment",
+      "color": "#7C9DAA"
+    },
+    {
+      "name": "今日签收",
+      "value": 124,
+      "icon": "el-icon-s-claim",
+      "color": "#4E7784"
+    },
+    {
+      "name": "今日录单",
+      "value": 97,
+      "icon": "el-icon-s-platform",
+      "color": "#6B9CB2"
+    }
+  ]

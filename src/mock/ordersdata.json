@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "num": "CC00000001",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "徐亮亮",
+        "thingstype": "文件",
+        "goodscatch": "包裹正在等待揽收",
+        "goodsnum": "2",
+        "temperature": "32℃ | 31%"
+    },
+    {
+        "id": "2",
+        "num": "CC00000002",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "邓晶晶",
+        "thingstype": "生活用品",
+        "goodscatch": "包裹正在等待揽收",
+        "goodsnum": "1",
+        "temperature": "30℃ | 41%"
+    },
+    {
+        "id": "3",
+        "num": "CC00000003",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "孙鑫鑫",
+        "thingstype": "文件",
+        "goodscatch": "包裹正在派送中",
+        "goodsnum": "2",
+        "temperature": "32℃ | 31%"
+    },
+    {
+        "id": "4",
+        "num": "CC00000004",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "李沛沛",
+        "thingstype": "文件",
+        "goodscatch": "包裹正在派送中",
+        "goodsnum": "22",
+        "temperature": "32℃ | 31%"
+    },
+    {
+        "id": "5",
+        "num": "CC00000005",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "陆辉辉",
+        "thingstype": "食品",
+        "goodscatch": "包裹正在派送中",
+        "goodsnum": "2",
+        "temperature": "16℃ | 58%"
+    },
+    {
+        "id": "6",
+        "num": "CC00000006",
+        "address": "佛山市三水区广州工商学院",
+        "pickman": "欧阳潇潇",
+        "thingstype": "化学用品",
+        "goodscatch": "包裹已接收",
+        "goodsnum": "1",
+        "temperature": "28℃ | 10%"
+    }
+]

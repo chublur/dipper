@@ -1,0 +1,46 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ /* 设置默认字体 */
+ body {
+     /* for ie */
+     /* font: 12px/1 Tahoma, Helvetica, Arial, "宋体", sans-serif; */
+     font-family:
+         Noto Sans TC,
+         PMingLiU,
+         /* Microsoft YaHei, */
+         Segoe UI, Tahoma,
+         Arial, Verdana,
+         sans-serif;
+     color: #333;
+ }
+
+h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+ .clearFix::after {
+     content: "";
+     display: block;
+     clear: both;
+ }
+
+ /* 让非ie浏览器默认也显示垂直滚动条，防止因滚动条引起的闪烁 */
+ html {
+     overflow-y: scroll;
+ }
+
+
+ /* 清除浮动 */
+ .clearfix::after {
+     display: block;
+     height: 0;
+     content: "";
+     clear: both;
+     visibility: hidden;
+ }
